@@ -1,2 +1,2 @@
 # ProjetoImersaoAI
-Projeto Imersão AI Google Gemini Alura
+Projeto Imersão AI Google Gemini Alura. Nome: ProjetoImersaoAI.
